@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+uygunhesap.tk	TRUE	/	FALSE	1999999999	ci_session	rm8d2kobnpil1rlm3oar0d5a3s3s3u1h
+uygunhesap.tk	TRUE	/	FALSE	1999999999	null_eins_cookie	cc161fdff4cda8cce989aae4d4296652
+
